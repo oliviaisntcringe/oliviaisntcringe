@@ -15,7 +15,7 @@
 
 ### 🤝 Связаться со мной:
 - [Telegram](https://t.me/tuerop)
-- [Email](mailto:твой_email)
+- [Email](mailto:glebbichivin@yandex.ru)
 
 ---
 

@@ -85,7 +85,7 @@
 
 <br/><br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
@@ -99,7 +99,7 @@
 </div>
 
 <br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
   
   <h3>💻 Tech Stack:</h3>
      <br/>

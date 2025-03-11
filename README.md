@@ -71,7 +71,7 @@
 <br/>
 
 <!--Experence and experencing-->
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
 <!-- git stat-->
@@ -85,7 +85,7 @@
 
 <br/><br/>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
@@ -99,7 +99,7 @@
 </div>
 
 <br/>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
   
   <h3>💻 Tech Stack:</h3>
      <br/>
@@ -116,20 +116,15 @@
 
 
 
-<!--<h3>⭐ Top Contributed Repo!</h3>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
 <!-- support -->
 
 
-<!--<h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
+</h1>
 
 
 

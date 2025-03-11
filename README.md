@@ -22,7 +22,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgit.gif">
-  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgit.gif" alt="gif" style="width:auto; height:auto"/>
+  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgt.gif" alt="gif" style="width:auto; height:auto"/>
 </a>
 
 

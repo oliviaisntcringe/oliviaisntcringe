@@ -21,8 +21,8 @@
 
 
 <!-- MasterHead -->
-<a href="https://github.com/oliviaisntcringe/oliviaisntcringe/gifgit.gif">
-  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/gifgit.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgit.gif">
+  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgit.gif" alt="gif" style="width:auto; height:auto"/>
 </a>
 
 

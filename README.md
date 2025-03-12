@@ -22,7 +22,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifcoffee.gif">
-  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" alt="gif" style="width:auto; height:auto"/>
+  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifcoffee.gif" alt="gif" style="width:auto; height:auto"/>
 </a>
 
 
@@ -39,7 +39,7 @@
 
 
 
-<img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" width="1920" height=0.4/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
@@ -71,7 +71,7 @@
 <br/>
 
 <!--Experence and experencing-->
-<img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" width="1920" height=0.4/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
 <!-- git stat-->
@@ -116,7 +116,7 @@
 
 
 
-<img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" width="1920" height=0.4/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
 <!-- support -->
@@ -129,6 +129,6 @@
 
 
 <!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" width="1920" height=0.4/>

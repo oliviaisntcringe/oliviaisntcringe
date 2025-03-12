@@ -36,10 +36,11 @@ jobs:
       - name: Check for changes
         id: check-changes
         run: |
-          if git diff --exit-code README.md; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
+          # Check if README.md has changes
+          if [ -n "$(git status --porcelain README.md)" ]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and push changes

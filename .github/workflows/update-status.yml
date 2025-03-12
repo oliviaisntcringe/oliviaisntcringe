@@ -2,14 +2,14 @@ name: Update Status GIF
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # Allow manual triggers
 
 jobs:
   update-gif:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write     # Required to push changes
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -17,10 +17,12 @@ jobs:
       - name: Get UTC hour
         id: time
         run: |
-          echo "CURRENT_UTC_HOUR=$(date -u +'%H')" >> $GITHUB_ENV
+          CURRENT_UTC_HOUR=$(date -u +"%H")
+          echo "CURRENT_UTC_HOUR=$CURRENT_UTC_HOUR" >> $GITHUB_ENV
 
-      - name: Set GIF file
+      - name: Determine GIF file
         run: |
+          # Active: 10:00-19:00 UTC+3 → 07:00-16:00 UTC
           if [ ${{ env.CURRENT_UTC_HOUR }} -ge 7 ] && [ ${{ env.CURRENT_UTC_HOUR }} -lt 16 ]; then
             echo "GIF_FILE=active.gif" >> $GITHUB_ENV
           else
@@ -34,11 +36,10 @@ jobs:
       - name: Check for changes
         id: check-changes
         run: |
-          # Check if README.md was modified
-          if git status --porcelain | grep 'README.md'; then
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          else
+          if git diff --exit-code README.md; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and push changes

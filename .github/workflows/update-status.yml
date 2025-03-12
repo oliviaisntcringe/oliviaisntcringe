@@ -2,7 +2,7 @@ name: Update Status GIF
 
 on:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
 
 jobs:
@@ -34,7 +34,12 @@ jobs:
       - name: Check for changes
         id: check-changes
         run: |
-          echo "has_changes=$(git status --porcelain | grep -q '.' && echo 'true' || echo 'false')" >> $GITHUB_OUTPUT
+          # Check if README.md was modified
+          if git status --porcelain | grep 'README.md'; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push changes
         if: ${{ steps.check-changes.outputs.has_changes == 'true' }}

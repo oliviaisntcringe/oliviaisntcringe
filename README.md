@@ -43,7 +43,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="status-gif" width="400" src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif">
+<img align="right" alt="status-gif" width="400" src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/active.gif">
 
 
 <!-- about me -->

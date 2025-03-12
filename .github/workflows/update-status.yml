@@ -5,6 +5,10 @@ on:
     - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-gif:
     runs-on: ubuntu-latest
@@ -52,5 +56,5 @@ jobs:
           git commit -m "chore: Auto-update status GIF to $GIF_FILE"
           # Pull the latest changes and rebase
           git pull --rebase origin main
-          # Force push to ensure the update is applied
-          git push origin main --force-with-lease
+          # Push changes without force
+          git push origin main

@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history to allow rebasing
 
       - name: Get UTC hour
         id: time
@@ -30,7 +32,6 @@ jobs:
 
       - name: Update README.md
         run: |
-          # Only update the <img> with alt="status-gif"
           sed -i "s|\(<img align=\"right\" alt=\"status-gif\".*src=\"\).*\.gif\(\".*\)|\1$GIF_FILE\2|" README.md
 
       - name: Check for changes
@@ -48,5 +49,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "chore: Update status GIF to $GIF_FILE"
-          git push
+          git commit -m "chore: Auto-update status GIF to $GIF_FILE"
+          # Pull latest changes and rebase to avoid conflicts
+          git pull --rebase origin main
+          git push origin main

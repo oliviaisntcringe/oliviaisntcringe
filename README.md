@@ -21,8 +21,8 @@
 
 
 <!-- MasterHead -->
-<a href="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgit.gif">
-  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifgit.gif" alt="gif" style="width:auto; height:auto"/>
+<a href="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifcoffee.gif">
+  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifcoffee.gif" alt="gif" style="width:auto; height:auto"/>
 </a>
 
 
@@ -33,9 +33,9 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Hello my name is Gleb</h1>
+<h1 align="center">👋Welcome to Tuer Le Prince's page</h1>
 
-<h4 align="left">🌟I work on pentesting and reversing when i am Bored while focusing on Game Dev and 3D Modeling. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
+<h4 align="left">🌟I work on pentesting and reversing when i am Bored while focusing on Game Dev and 3D Modeling. I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
 
 

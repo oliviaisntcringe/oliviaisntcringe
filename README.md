@@ -43,7 +43,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="status-gif" width="400" src="passive.gif">
+<img align="right" alt="status-gif" width="400" src="active.gif">
 
 
 <!-- about me -->

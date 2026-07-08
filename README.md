@@ -7,8 +7,8 @@
 <h1 align="center">👋 Welcome to Tuer Le Prince's page</h1>
 
 <h4 align="center">
-  🔐 Security Researcher | 🎮 Game Developer | 🔧 Systems Programmer<br/>
-  Passionate about pentesting, vulnerability research, reversing, and creative development
+  🔐 Security Researcher | 🎮 Game Developer | 🔧 Systems Programmer | 🛠️ Embedded Systems<br/>
+  Passionate about pentesting, vulnerability research, reversing, creative development, and IoT
 </h4>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
@@ -21,9 +21,10 @@
   🎯 Hands-on experience with reversing, firmware analysis, and exploit development<br/>
   🚀 Building secure systems and advanced security frameworks<br/>
   🎮 Game development with Godot/GDScript, focusing on creative gameplay mechanics<br/>
-  💻 Full-stack developer: backend systems, web applications, and interactive experiences<br/>
-  🌱 Continuously exploring low-level systems programming (ARM, embedded systems)<br/>
-  ⚡ Interests: Cybersecurity, Reversing, Game Dev, 3D Modeling, Physics, Systems Design<br/>
+  📱 Embedded systems & firmware development (ESP32, ARM, HiSilicon)<br/>
+  💻 Full-stack developer: backend systems, web applications, mobile apps, and interactive experiences<br/>
+  🌱 Continuously exploring low-level systems programming and IoT solutions<br/>
+  ⚡ Interests: Cybersecurity, Reversing, Game Dev, Embedded Systems, 3D Modeling, Physics<br/>
   ✨ Philosophy: Perfect execution in everything I create
 </h4>
 
@@ -40,7 +41,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
-### 🔒 Security & Research
+### 🔐 Security & Research
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **[CES Framework](https://github.com/oliviaisntcringe/CES_framework)** | Advanced AI-Powered Penetration Testing Framework | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
@@ -48,6 +49,12 @@
 | **[Pentest Portfolio](https://github.com/oliviaisntcringe/pentest-portfolio)** | Advanced exploitation and vulnerability assessment tooling | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **[Security Scanner](https://github.com/oliviaisntcringe/security-scanner)** | Automated vulnerability scanning toolkit | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **[Web Scanner](https://github.com/oliviaisntcringe/web-scanner)** | Web application security assessment tool | ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) |
+
+### 📱 Embedded Systems & IoT
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Rabbitrack R1 Firmware](https://github.com/oliviaisntcringe/rabbitrack-r1-firmware)** | ESP32-S3 firmware with LVGL UI, minimp3, TinyUSB MSC support | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake) |
+| **[Rabbitrack R1 Companion](https://github.com/oliviaisntcringe/rabbitrack-r1-companion)** | Flutter macOS companion app for Rabbitrack R1 device management | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![ObjectiveC++](https://img.shields.io/badge/Objective--C++-444?style=flat) |
 
 ### 🎮 Game Development & Creative
 | Project | Description | Tech Stack |
@@ -88,7 +95,7 @@
 
 ### Development Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,git,docker,blender,unity" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,git,docker,blender,unity,flutter" /><br>
 </div>
 
 ### Tech Stack Breakdown
@@ -99,6 +106,7 @@
    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
    <img src="https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
@@ -107,8 +115,11 @@
 ### Specializations
 - **Penetration Testing & Exploitation**: Framework development, vulnerability research, exploit PoCs
 - **Reversing & Binary Analysis**: ARM assembly, firmware analysis, HiSilicon systems
+- **Embedded Systems**: ESP32, ARM-based devices, firmware development, LVGL, real-time systems
+- **IoT Development**: Device communication, cross-platform companion apps, embedded networking
 - **Systems Programming**: Low-level C/C++, embedded systems, performance optimization
 - **Game Development**: GDScript, Godot Engine, interactive storytelling
+- **Mobile Development**: Flutter for cross-platform iOS/macOS/Android apps
 - **Web Development**: Full-stack with Next.js, TypeScript, modern architectures
 - **Security Tooling**: Custom security frameworks, automated vulnerability detection
 

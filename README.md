@@ -1,147 +1,353 @@
-<!-- MasterHead -->
-<a href="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifcoffee.gif">
-  <img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/gifcoffee.gif" alt="gif" style="width:auto; height:auto"/>
-</a>
+<!-- ASCII Art Header Animation 24fps -->
+```
+ ████████╗██╗   ██╗███████╗██████╗     ██╗     ███████╗
+ ╚══██╔══╝██║   ██║██╔════╝██╔══██╗    ██║     ██╔════╝
+    ██║   ██║   ██║█████╗  ██████╔╝    ██║     █████╗  
+    ██║   ██║   ██║██╔══╝  ██╔══██╗    ██║     ██╔══╝  
+    ██║   ╚██████╔╝███████╗██║  ██║    ███████╗███████╗
+    ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝
+                                                        
+    ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
+   ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
+   ██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗  
+   ██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝  
+   ██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗
+   ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+```
 
-<!-- Greeting -->
-<h1 align="center">👋 Welcome to Tuer Le Prince's page</h1>
+---
 
-<h4 align="center">
-  🔐 Security Researcher | 🎮 Game Developer | 🔧 Systems Programmer | 🛠️ Embedded Systems<br/>
-  Passionate about pentesting, vulnerability research, reversing, creative development, and IoT
-</h4>
+## 🔐 **SECURITY RESEARCHER** → 🎮 **GAME DEVELOPER** → 🔧 **SYSTEMS PROGRAMMER** → 🛠️ **EMBEDDED SYSTEMS**
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+> Vulnerability Research • Firmware Analysis • Creative Development • IoT Solutions
 
-<!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+---
 
-<h4 align="left">
-  🔭 Deep expertise in penetration testing, 0-day research, and security tooling<br/>
-  🎯 Hands-on experience with reversing, firmware analysis, and exploit development<br/>
-  🚀 Building secure systems and advanced security frameworks<br/>
-  🎮 Game development with Godot/GDScript, focusing on creative gameplay mechanics<br/>
-  📱 Embedded systems & firmware development (ESP32, ARM, HiSilicon)<br/>
-  💻 Full-stack developer: backend systems, web applications, mobile apps, and interactive experiences<br/>
-  🌱 Continuously exploring low-level systems programming and IoT solutions<br/>
-  ⚡ Interests: Cybersecurity, Reversing, Game Dev, Embedded Systems, 3D Modeling, Physics<br/>
-  ✨ Philosophy: Perfect execution in everything I create
-</h4>
+## 🎯 **QUICK ACCESS**
 
-<div align="left">
-  <a href="mailto:glebbichivin@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://tuerleprince.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" />
-  </a>
-</div>
+| 📧 **Email** | 🎮 **itch.io** | 💾 **GitHub** | 🔗 **Connect** |
+|:---:|:---:|:---:|:---:|
+| [Contact](mailto:glebbichivin@yandex.ru) | [Play](https://tuerleprince.itch.io/) | [Profile](https://github.com/oliviaisntcringe) | [Explore](#) |
 
-<br/>
+---
 
-<!-- Featured Projects -->
-<h2 align="left">🎯 Featured Projects</h2>
+## 👤 **ABOUT ME**
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-### 🔐 Security & Research
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[CES Framework](https://github.com/oliviaisntcringe/CES_framework)** | Advanced AI-Powered Penetration Testing Framework | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **[Crashbandicoot](https://github.com/oliviaisntcringe/crashbandicoot)** | Pre-auth 0-day research on Hikvision DVR/NVR (HiSilicon Hi3531, ARMv7-A) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **[Pentest Portfolio](https://github.com/oliviaisntcringe/pentest-portfolio)** | Advanced exploitation and vulnerability assessment tooling | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **[Security Scanner](https://github.com/oliviaisntcringe/security-scanner)** | Automated vulnerability scanning toolkit | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **[Web Scanner](https://github.com/oliviaisntcringe/web-scanner)** | Web application security assessment tool | ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) |
+**🔭 Core Expertise:**
+- ⚔️ Advanced Penetration Testing & 0-day Research
+- 🔎 Binary Reversing & Firmware Analysis (ARM, HiSilicon)
+- 🛡️ Security Framework Development & Exploit PoCs
+- 🎮 Game Development with Godot/GDScript
+- 📱 Embedded Systems (ESP32, ARM-based devices)
+- 💻 Full-stack Development (Backend, Web, Mobile)
 
-### 📱 Embedded Systems & IoT
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Rabbitrack R1 Firmware](https://github.com/oliviaisntcringe/rabbitrack-r1-firmware)** | ESP32-S3 firmware with LVGL UI, minimp3, TinyUSB MSC support | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake) |
-| **[Rabbitrack R1 Companion](https://github.com/oliviaisntcringe/rabbitrack-r1-companion)** | Flutter macOS companion app for Rabbitrack R1 device management | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![ObjectiveC++](https://img.shields.io/badge/Objective--C++-444?style=flat) |
+**🚀 Current Focus:**
+- Building sophisticated security tooling
+- IoT device firmware development
+- Interactive game experiences
+- Low-level systems optimization
 
-### 🎮 Game Development & Creative
-| Project | Description | Tech Stack | Where to Play |
-|---------|-------------|-----------|---------------|
-| **[ARG-monk](https://github.com/oliviaisntcringe/ARG-monk)** | Interactive game/experience with engaging narrative mechanics | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [itch.io](https://tuerleprince.itch.io/) |
-| **[Prank](https://github.com/oliviaisntcringe/prank)** | Cross-platform utility (Windows/System focused) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) | - |
+**✨ Philosophy:** *Perfect execution in everything*
 
-### 💻 Web & Applications
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[My Blog](https://github.com/oliviaisntcringe/myblog)** | Personal retro-terminal blog — Next.js 16 + Supabase + Vercel | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **[Cosmo](https://github.com/oliviaisntcringe/Cosmo)** | Personal cosmic report generator for any birthday | Multi-tech |
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-### 🛠️ Utilities & Tools
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[FTP Crawler](https://github.com/oliviaisntcringe/ftp_crawler)** | Advanced FTP enumeration and crawling utility | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **[CVE-2025-30216 PoC](https://github.com/oliviaisntcringe/CVE-2025-30216-PoC)** | Proof of Concept for critical vulnerability | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **[Inventory Unlocker](https://github.com/oliviaisntcringe/invunlocker)** | Game inventory manipulation utility | Multi-tech |
-| **[Gekka](https://github.com/oliviaisntcringe/gekka)** | Systems tool in Go | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
+---
 
-<br/>
+## 🎯 **FEATURED PROJECTS**
 
-<!-- Tech Stack -->
-<h2 align="left">🛠️ Technical Arsenal</h2>
+### 🔴 **SECURITY & RESEARCH**
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+```
+┌─ 🔐 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► CES FRAMEWORK                                 │
+│    Advanced AI-Powered Penetration Testing       │
+│    🏷️  Python • 🌟 Core Security Tool            │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
 
-### Core Languages
+┌─ 🔴 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► CRASHBANDICOOT                                │
+│    Pre-auth 0-day Research on Hikvision         │
+│    🏷️  Python • CVE Research • ARM Analysis      │
+│    📍 HiSilicon Hi3531 ARMv7-A Firmware          │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+
+┌─ 🔵 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► PENTEST PORTFOLIO                             │
+│    Advanced Exploitation Toolkit                 │
+│    🏷️  C • C++ • Python • Low-level Systems      │
+│    ⚙️  Custom tooling & vulnerability assessment │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+
+┌─ 🟢 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► SECURITY SCANNER                              │
+│    Automated Vulnerability Detection             │
+│    🏷️  Python • Automation • Analysis            │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+```
+
+### 🟣 **EMBEDDED SYSTEMS & IoT**
+
+```
+┌─ 📱 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► RABBITRACK R1 FIRMWARE                        │
+│    ESP32-S3 Device Management System             │
+│    🏷️  C • CMake • LVGL UI • TinyUSB MSC        │
+│    ⚙️  Real-time firmware with audio support     │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+
+┌─ 🍎 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► RABBITRACK R1 COMPANION                       │
+│    Flutter macOS Companion App                   │
+│    🏷️  Dart • C++ • Objective-C++ • Native API  │
+│    📲 Cross-platform device management           │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+```
+
+### 🎮 **GAME DEVELOPMENT & CREATIVE**
+
+```
+┌─ 🕹️ ─────────────────────────────────────────────┐
+│                                                   │
+│  ► ARG-MONK                                      │
+│    Interactive Narrative Experience              │
+│    🏷️  GDScript • JavaScript • CSS               │
+│    🎨 Godot Engine • Creative Storytelling       │
+│    🎯 PLAYABLE: https://tuerleprince.itch.io/  │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+
+┌─ ⚙️ ─────────────────────────────────────────────┐
+│                                                   │
+│  ► PRANK                                         │
+│    Cross-platform Utility                        │
+│    🏷️  C++ • PowerShell • Windows-focused        │
+│    ⚡ Advanced system interaction                 │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+```
+
+### 💻 **WEB & APPLICATIONS**
+
+```
+┌─ 🌐 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► MY BLOG                                       │
+│    Retro-Terminal Personal Blog                  │
+│    🏷️  Next.js 16 • TypeScript • Supabase       │
+│    🚀 Deployed on Vercel                         │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+
+┌─ ✨ ─────────────────────────────────────────────┐
+│                                                   │
+│  ► COSMO                                         │
+│    Cosmic Report Generator                       │
+│    🏷️  Birthday-based cosmic analysis            │
+│    🌌 Personalized experiences                   │
+│    🔗 https://github.com/oliviaisntcringe/...   │
+│                                                   │
+└─────────────────────────────────────────────────┘
+```
+
+### 🛠️ **UTILITIES & TOOLS**
+
+```
+┌─ 🔧 ─────────────────────────────────────────────┐
+│                                                   │
+│  ► FTP CRAWLER                    [PYTHON]       │
+│    Advanced FTP enumeration and scanning         │
+│                                                   │
+│  ► CVE-2025-30216 PoC             [PYTHON]       │
+│    Critical vulnerability proof of concept       │
+│                                                   │
+│  ► INVENTORY UNLOCKER             [MULTI-TECH]   │
+│    Game inventory manipulation utility           │
+│                                                   │
+│  ► GEKKA                          [GO]           │
+│    Modern systems tool in Go                     │
+│                                                   │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ **TECHNICAL ARSENAL**
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### 💎 **PRIMARY LANGUAGES**
+```
+[████████░░] PYTHON        • Scripting & Security Tools
+[████████░░] C/C++         • Systems & Embedded Dev
+[███████░░░] JAVASCRIPT    • Web & Game Frontend
+[██████░░░░] TYPESCRIPT    • Type-safe Development
+[██████░░░░] GO            • Systems Tools
+[█████░░░░░] BASH/SHELL    • Automation & DevOps
+[█████░░░░░] JAVA          • Backend Systems
+[████░░░░░░] C#            • Game Development
+[████░░░░░░] DART          • Mobile Development
+```
+
+### 🔐 **SECURITY & SYSTEMS**
+```
+🔴 Kali Linux         ⚫ Linux (Advanced)      🟣 Raspberry Pi
+🔵 Windows            🟡 Arduino              ⚡ Nginx
+```
+
+### 💻 **DEVELOPMENT TOOLS**
+```
+🖥️  VS Code           📦 Git                 🐳 Docker
+🎨 Blender            🎮 Unity/Godot         🔀 Sublime
+📱 Flutter            🎯 CMake               ⚙️  Visual Studio
+```
+
+### 🎯 **SPECIALIZATIONS**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🔫 PENETRATION TESTING & EXPLOITATION         ┃
+┃ → Framework development • Vulnerability PoCs  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🔍 REVERSING & BINARY ANALYSIS                ┃
+┃ → ARM Assembly • Firmware Analysis             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 📱 EMBEDDED SYSTEMS & IoT                      ┃
+┃ → ESP32 • ARM-based devices • Real-time OS    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🎮 GAME DEVELOPMENT                           ┃
+┃ → GDScript • Godot Engine • Game Mechanics    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🔨 SYSTEMS PROGRAMMING                        ┃
+┃ → Low-level C/C++ • Performance Optimization  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🌐 FULL-STACK WEB DEVELOPMENT                ┃
+┃ → Next.js • TypeScript • Modern Architectures ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 📲 MOBILE DEVELOPMENT                         ┃
+┃ → Flutter • Cross-platform • Native APIs      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+---
+
+## 📊 **GITHUB STATISTICS**
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,go,java,cs,js,ts,bash" /><br>
+
+**📈 Activity Overview**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliviaisntcringe&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+**🗣️ Language Distribution**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviaisntcringe&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
-### Security & Systems
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 🎁 **INTERACTIVE ELEMENTS**
+
+```
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  ✨ Want to collaborate?                           ║
+║                                                    ║
+║  📧 Email: glebbichivin@yandex.ru                 ║
+║  🎮 Games: https://tuerleprince.itch.io/          ║
+║  💻 Code: https://github.com/oliviaisntcringe    ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🚀 **CURRENT PROJECTS**
+
+| 🔴 Status | 📋 Project | 🎯 Focus |
+|:---:|:---|:---|
+| 🔴 **ACTIVE** | Security Framework Updates | Exploit Development |
+| 🟡 **IN PROGRESS** | Embedded IoT Solutions | ESP32 Optimization |
+| 🟢 **SHIPPED** | Rabbitrack R1 System | Production Ready |
+| 🔵 **UPCOMING** | Game Dev Expansion | New Narratives |
+
+---
+
+## 💬 **QUICK FACTS**
+
+```
+✦ 833+ GitHub Commits across multiple repositories
+✦ Expertise in firmware analysis & vulnerability research
+✦ Published games on itch.io
+✦ Full-stack development capabilities
+✦ Passionate about cybersecurity & creative development
+✦ Always learning, always optimizing
+```
+
+---
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows,raspberrypi,arduino,nginx" /><br>
+
+### 🎯 **LET'S BUILD SOMETHING AMAZING**
+
+```
+███████████████████████████████████
+█                                 █
+█  Thank you for visiting!        █
+█  Explore • Learn • Create       █
+█                                 █
+███████████████████████████████████
+```
+
+**Last Updated:** July 2026 | **Status:** 🟢 ACTIVE
+
 </div>
-
-### Development Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,git,docker,blender,unity,flutter" /><br>
-</div>
-
-### Tech Stack Breakdown
-<div align="center">
-   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> 
-   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-   <img src="https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-</div>
-
-### Specializations
-- **Penetration Testing & Exploitation**: Framework development, vulnerability research, exploit PoCs
-- **Reversing & Binary Analysis**: ARM assembly, firmware analysis, HiSilicon systems
-- **Embedded Systems**: ESP32, ARM-based devices, firmware development, LVGL, real-time systems
-- **IoT Development**: Device communication, cross-platform companion apps, embedded networking
-- **Systems Programming**: Low-level C/C++, embedded systems, performance optimization
-- **Game Development**: GDScript, Godot Engine, interactive storytelling, game mechanics
-- **Mobile Development**: Flutter for cross-platform iOS/macOS/Android apps
-- **Web Development**: Full-stack with Next.js, TypeScript, modern architectures
-- **Security Tooling**: Custom security frameworks, automated vulnerability detection
-
-<br/>
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 Github Status</h3>
-<br>
-<div align="center">
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviaisntcringe&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=oliviaisntcringe&show_icons=true&theme=default&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>
-
-<img src="https://github.com/oliviaisntcringe/oliviaisntcringe/blob/main/passive.gif" width="1920" height=0.4/>

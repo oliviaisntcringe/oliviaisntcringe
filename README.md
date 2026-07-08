@@ -32,6 +32,9 @@
   <a href="mailto:glebbichivin@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
+  <a href="https://tuerleprince.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" />
+  </a>
 </div>
 
 <br/>
@@ -57,10 +60,10 @@
 | **[Rabbitrack R1 Companion](https://github.com/oliviaisntcringe/rabbitrack-r1-companion)** | Flutter macOS companion app for Rabbitrack R1 device management | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![ObjectiveC++](https://img.shields.io/badge/Objective--C++-444?style=flat) |
 
 ### 🎮 Game Development & Creative
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[ARG-monk](https://github.com/oliviaisntcringe/ARG-monk)** | Interactive game/experience with engaging narrative mechanics | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **[Prank](https://github.com/oliviaisntcringe/prank)** | Cross-platform utility (Windows/System focused) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
+| Project | Description | Tech Stack | Where to Play |
+|---------|-------------|-----------|---------------|
+| **[ARG-monk](https://github.com/oliviaisntcringe/ARG-monk)** | Interactive game/experience with engaging narrative mechanics | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [itch.io](https://tuerleprince.itch.io/) |
+| **[Prank](https://github.com/oliviaisntcringe/prank)** | Cross-platform utility (Windows/System focused) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) | - |
 
 ### 💻 Web & Applications
 | Project | Description | Tech Stack |
@@ -118,7 +121,7 @@
 - **Embedded Systems**: ESP32, ARM-based devices, firmware development, LVGL, real-time systems
 - **IoT Development**: Device communication, cross-platform companion apps, embedded networking
 - **Systems Programming**: Low-level C/C++, embedded systems, performance optimization
-- **Game Development**: GDScript, Godot Engine, interactive storytelling
+- **Game Development**: GDScript, Godot Engine, interactive storytelling, game mechanics
 - **Mobile Development**: Flutter for cross-platform iOS/macOS/Android apps
 - **Web Development**: Full-stack with Next.js, TypeScript, modern architectures
 - **Security Tooling**: Custom security frameworks, automated vulnerability detection

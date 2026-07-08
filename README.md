@@ -25,9 +25,9 @@
 
 ## 🎯 **QUICK ACCESS**
 
-| 📧 **Email** | 🎮 **itch.io** | 💾 **GitHub** | 🔗 **Connect** |
+| 📧 **Email** | 🎮 **itch.io** | 💾 **GitHub** | 🔗 **Explore** |
 |:---:|:---:|:---:|:---:|
-| [Contact](mailto:glebbichivin@yandex.ru) | [Play](https://tuerleprince.itch.io/) | [Profile](https://github.com/oliviaisntcringe) | [Explore](#) |
+| [Contact](mailto:glebbichivin@yandex.ru) | [Play](https://tuerleprince.itch.io/) | [Profile](https://github.com/oliviaisntcringe) | [View More](#) |
 
 ---
 
@@ -69,7 +69,9 @@
 │  ► CES FRAMEWORK                                 │
 │    Advanced AI-Powered Penetration Testing       │
 │    🏷️  Python • 🌟 Core Security Tool            │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    ⭐ 12+ commits • Active development            │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       CES_framework                              │
 │                                                   │
 └─────────────────────────────────────────────────┘
 
@@ -79,7 +81,9 @@
 │    Pre-auth 0-day Research on Hikvision         │
 │    🏷️  Python • CVE Research • ARM Analysis      │
 │    📍 HiSilicon Hi3531 ARMv7-A Firmware          │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🚀 Active vulnerability research              │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       crashbandicoot                             │
 │                                                   │
 └─────────────────────────────────────────────────┘
 
@@ -87,9 +91,11 @@
 │                                                   │
 │  ► PENTEST PORTFOLIO                             │
 │    Advanced Exploitation Toolkit                 │
-│    🏷️  C • C++ • Python • Low-level Systems      │
-│    ⚙️  Custom tooling & vulnerability assessment │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🏷️  C (53.8%) • C++ (34.3%) • Python (11.7%)  │
+│    ⚙️  Low-level systems & vulnerability assess  │
+│    📦 Multi-language exploitation suite          │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       pentest-portfolio                          │
 │                                                   │
 └─────────────────────────────────────────────────┘
 
@@ -97,8 +103,21 @@
 │                                                   │
 │  ► SECURITY SCANNER                              │
 │    Automated Vulnerability Detection             │
-│    🏷️  Python • Automation • Analysis            │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🏷️  Python • Automation • Real-time Analysis  │
+│    🔍 Scanning & threat detection toolkit        │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       security-scanner                           │
+│                                                   │
+└─────────────────────────────────────────────────┘
+
+┌─ ⚫ ─────────────────────────────────────────────┐
+│                                                   │
+│  ► CVE-2025-30216 PROOF OF CONCEPT               │
+│    Critical Vulnerability Demonstration          │
+│    🏷️  Python • CVE Analysis • Research          │
+│    ⚠️  Security research & disclosure            │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       CVE-2025-30216-PoC                         │
 │                                                   │
 └─────────────────────────────────────────────────┘
 ```
@@ -110,9 +129,11 @@
 │                                                   │
 │  ► RABBITRACK R1 FIRMWARE                        │
 │    ESP32-S3 Device Management System             │
-│    🏷️  C • CMake • LVGL UI • TinyUSB MSC        │
-│    ⚙️  Real-time firmware with audio support     │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🏷️  C (99.6%) • CMake (0.4%)                  │
+│    ⚙️  LVGL UI • minimp3 • TinyUSB MSC          │
+│    🎯 Production-ready firmware                  │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       rabbitrack-r1-firmware                     │
 │                                                   │
 └─────────────────────────────────────────────────┘
 
@@ -120,9 +141,11 @@
 │                                                   │
 │  ► RABBITRACK R1 COMPANION                       │
 │    Flutter macOS Companion App                   │
-│    🏷️  Dart • C++ • Objective-C++ • Native API  │
+│    🏷️  Dart (44.1%) • C++ (27%) • Obj-C++ (9.9%) │
 │    📲 Cross-platform device management           │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🚀 Native macOS integration & APIs            │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       rabbitrack-r1-companion                    │
 │                                                   │
 └─────────────────────────────────────────────────┘
 ```
@@ -134,10 +157,11 @@
 │                                                   │
 │  ► ARG-MONK                                      │
 │    Interactive Narrative Experience              │
-│    🏷️  GDScript • JavaScript • CSS               │
+│    🏷️  GDScript (48.1%) • JS (34.2%) • CSS/HTML  │
 │    🎨 Godot Engine • Creative Storytelling       │
-│    🎯 PLAYABLE: https://tuerleprince.itch.io/  │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🎯 PLAYABLE NOW: https://tuerleprince.itch.io│
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       ARG-monk                                   │
 │                                                   │
 └─────────────────────────────────────────────────┘
 
@@ -145,9 +169,11 @@
 │                                                   │
 │  ► PRANK                                         │
 │    Cross-platform Utility                        │
-│    🏷️  C++ • PowerShell • Windows-focused        │
+│    🏷️  C++ (75.4%) • Batch (15%) • PowerShell    │
 │    ⚡ Advanced system interaction                 │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🖥️  Windows-focused development                │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       prank                                      │
 │                                                   │
 └─────────────────────────────────────────────────┘
 ```
@@ -159,9 +185,11 @@
 │                                                   │
 │  ► MY BLOG                                       │
 │    Retro-Terminal Personal Blog                  │
-│    🏷️  Next.js 16 • TypeScript • Supabase       │
-│    🚀 Deployed on Vercel                         │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🏷️  TypeScript (36.8%) • Dart (44.7%)         │
+│    🚀 Next.js 16 • Supabase • Vercel Deployed   │
+│    💾 Modern full-stack blogging platform        │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       myblog                                     │
 │                                                   │
 └─────────────────────────────────────────────────┘
 
@@ -169,9 +197,11 @@
 │                                                   │
 │  ► COSMO                                         │
 │    Cosmic Report Generator                       │
-│    🏷️  Birthday-based cosmic analysis            │
-│    🌌 Personalized experiences                   │
-│    🔗 https://github.com/oliviaisntcringe/...   │
+│    🏷️  Multi-technology stack                    │
+│    🌌 Birthday-based cosmic analysis             │
+│    🎁 Personalized experiences                   │
+│    🔗 https://github.com/oliviaisntcringe/      │
+│       Cosmo                                      │
 │                                                   │
 └─────────────────────────────────────────────────┘
 ```
@@ -183,15 +213,23 @@
 │                                                   │
 │  ► FTP CRAWLER                    [PYTHON]       │
 │    Advanced FTP enumeration and scanning         │
+│    🎯 Network reconnaissance tool                │
 │                                                   │
 │  ► CVE-2025-30216 PoC             [PYTHON]       │
 │    Critical vulnerability proof of concept       │
+│    🔴 Security research demonstration            │
 │                                                   │
 │  ► INVENTORY UNLOCKER             [MULTI-TECH]   │
 │    Game inventory manipulation utility           │
+│    🎮 Game modding focused                       │
 │                                                   │
 │  ► GEKKA                          [GO]           │
 │    Modern systems tool in Go                     │
+│    ⚡ Performance-optimized                      │
+│                                                   │
+│  ► WEB SCANNER                    [HTML]         │
+│    Web vulnerability assessment UI               │
+│    🌐 Interactive web scanning interface         │
 │                                                   │
 └─────────────────────────────────────────────────┘
 ```
@@ -215,6 +253,7 @@
 [█████░░░░░] JAVA          • Backend Systems
 [████░░░░░░] C#            • Game Development
 [████░░░░░░] DART          • Mobile Development
+[████░░░░░░] GDSCRIPT      • Game Dev (Godot)
 ```
 
 ### 🔐 **SECURITY & SYSTEMS**
@@ -236,36 +275,43 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 🔫 PENETRATION TESTING & EXPLOITATION         ┃
 ┃ → Framework development • Vulnerability PoCs  ┃
+┃ → 833+ commits across security projects      ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 🔍 REVERSING & BINARY ANALYSIS                ┃
 ┃ → ARM Assembly • Firmware Analysis             ┃
+┃ → HiSilicon & embedded device research         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 📱 EMBEDDED SYSTEMS & IoT                      ┃
 ┃ → ESP32 • ARM-based devices • Real-time OS    ┃
+┃ → Production firmware deployment               ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 🎮 GAME DEVELOPMENT                           ┃
 ┃ → GDScript • Godot Engine • Game Mechanics    ┃
+┃ → Published games on itch.io                  ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 🔨 SYSTEMS PROGRAMMING                        ┃
 ┃ → Low-level C/C++ • Performance Optimization  ┃
+┃ → Custom tools & framework development        ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 🌐 FULL-STACK WEB DEVELOPMENT                ┃
 ┃ → Next.js • TypeScript • Modern Architectures ┃
+┃ → Backend systems • Frontend UI/UX            ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 📲 MOBILE DEVELOPMENT                         ┃
 ┃ → Flutter • Cross-platform • Native APIs      ┃
+┃ → iOS/macOS/Android deployment                ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -277,67 +323,109 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<div align="center">
-
-**📈 Activity Overview**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliviaisntcringe&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-**🗣️ Language Distribution**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviaisntcringe&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+### 📈 **REPOSITORY BREAKDOWN**
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+┌─ 📦 REPOSITORIES ──────────────────────────────┐
+│                                                 │
+│  Total Repositories:        18+                │
+│  Active Projects:           12                 │
+│  Total Commits:             833+               │
+│  Primary Languages:         9                  │
+│                                                 │
+│  ▓▓▓▓▓▓▓▓░░ Security (45%)                    │
+│  ▓▓▓▓░░░░░░ Game Dev (25%)                    │
+│  ▓▓░░░░░░░░ Embedded (15%)                    │
+│  ▓░░░░░░░░░ Web Apps (10%)                    │
+│  ▓░░░░░░░░░ Utilities (5%)                    │
+│                                                 │
+└─────────────────────────────────────────────┘
 
----
+┌─ 🗣️ LANGUAGE COMPOSITION ──────────────────────┐
+│                                                 │
+│  Python          ███████████░░░ 35%            │
+│  C               ██████░░░░░░░░ 18%            │
+│  C++             ██████░░░░░░░░ 17%            │
+│  JavaScript      ████░░░░░░░░░░ 12%            │
+│  Go              ███░░░░░░░░░░░  8%            │
+│  TypeScript      ███░░░░░░░░░░░  8%            │
+│  Other           ██░░░░░░░░░░░░  2%            │
+│                                                 │
+└─────────────────────────────────────────────┘
 
-## 🎁 **INTERACTIVE ELEMENTS**
-
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  ✨ Want to collaborate?                           ║
-║                                                    ║
-║  📧 Email: glebbichivin@yandex.ru                 ║
-║  🎮 Games: https://tuerleprince.itch.io/          ║
-║  💻 Code: https://github.com/oliviaisntcringe    ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
+┌─ 🎯 COMMIT ACTIVITY ───────────────────────────┐
+│                                                 │
+│  Most Active Repos:                            │
+│  ✓ CES_framework       (15+ commits)           │
+│  ✓ invunlocker         (5+ commits)            │
+│  ✓ web-scanner         (3+ commits)            │
+│  ✓ ARG-monk            (4+ commits)            │
+│  ✓ crashbandicoot      (active research)       │
+│                                                 │
+│  Contribution Streak:   🔥 ACTIVE               │
+│                                                 │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🚀 **CURRENT PROJECTS**
 
-| 🔴 Status | 📋 Project | 🎯 Focus |
-|:---:|:---|:---|
-| 🔴 **ACTIVE** | Security Framework Updates | Exploit Development |
-| 🟡 **IN PROGRESS** | Embedded IoT Solutions | ESP32 Optimization |
-| 🟢 **SHIPPED** | Rabbitrack R1 System | Production Ready |
-| 🔵 **UPCOMING** | Game Dev Expansion | New Narratives |
+| 🔴 Status | 📋 Project | 🎯 Focus | 📍 Progress |
+|:---:|:---|:---|:---|
+| 🔴 **ACTIVE** | CES Framework | Exploit Development | 🔥🔥🔥 |
+| 🔴 **ACTIVE** | Crashbandicoot Research | 0-day Analysis | 🔥🔥 |
+| 🟡 **IN PROGRESS** | Embedded IoT Solutions | ESP32 Optimization | 🔥🔥 |
+| 🟢 **SHIPPED** | Rabbitrack R1 System | Production Ready | ✅ |
+| 🟢 **SHIPPED** | ARG-monk Game | Published itch.io | ✅ |
+| 🔵 **UPCOMING** | New Game Dev | Narrative Design | 📝 |
 
 ---
 
-## 💬 **QUICK FACTS**
+## 💬 **QUICK STATS**
 
 ```
-✦ 833+ GitHub Commits across multiple repositories
-✦ Expertise in firmware analysis & vulnerability research
-✦ Published games on itch.io
-✦ Full-stack development capabilities
-✦ Passionate about cybersecurity & creative development
-✦ Always learning, always optimizing
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  ✦ 833+ GitHub Commits                           ║
+║  ✦ 18+ Active Repositories                       ║
+║  ✦ 9 Programming Languages Mastered              ║
+║  ✦ Firmware Analysis & Reversing Expert          ║
+║  ✦ Published Games on itch.io                    ║
+║  ✦ Full-stack Development Capabilities           ║
+║  ✦ Security Framework Development                ║
+║  ✦ IoT & Embedded Systems Specialist             ║
+║  ✦ Always Learning, Always Optimizing            ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🔗 **CONNECT & COLLABORATE**
+
+```
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  📧 EMAIL                                         ║
+║     glebbichivin@yandex.ru                        ║
+║                                                    ║
+║  🎮 GAMES & PROJECTS                              ║
+║     https://tuerleprince.itch.io/                 ║
+║                                                    ║
+║  💻 GITHUB PROFILE                                ║
+║     https://github.com/oliviaisntcringe          ║
+║                                                    ║
+║  💬 LET'S BUILD SOMETHING AMAZING                 ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-### 🎯 **LET'S BUILD SOMETHING AMAZING**
+### 🎯 **STATUS: ACTIVE & READY TO COLLABORATE**
 
 ```
 ███████████████████████████████████
@@ -348,6 +436,6 @@
 ███████████████████████████████████
 ```
 
-**Last Updated:** July 2026 | **Status:** 🟢 ACTIVE
+**Last Updated:** July 2026 | **Mode:** 🟢 FULL PRODUCTIVITY
 
 </div>

@@ -16,426 +16,144 @@
 ```
 
 ---
+# Gleb Shirikov
 
-## 🔐 **SECURITY RESEARCHER** → 🎮 **GAME DEVELOPER** → 🔧 **SYSTEMS PROGRAMMER** → 🛠️ **EMBEDDED SYSTEMS**
+**Security Researcher · Pentesting · Reverse Engineering · Systems**
 
-> Vulnerability Research • Firmware Analysis • Creative Development • IoT Solutions
+I build things, break things, and investigate what happens underneath.
 
----
+My main interests are:
 
-## 🎯 **QUICK ACCESS**
-
-| 📧 **Email** | 🎮 **itch.io** | 💾 **GitHub** | 🔗 **Explore** |
-|:---:|:---:|:---:|:---:|
-| [Contact](mailto:glebbichivin@yandex.ru) | [Play](https://tuerleprince.itch.io/) | [Profile](https://github.com/oliviaisntcringe) | [View More](#) |
-
----
-
-## 👤 **ABOUT ME**
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**🔭 Core Expertise:**
-- ⚔️ Advanced Penetration Testing & 0-day Research
-- 🔎 Binary Reversing & Firmware Analysis (ARM, HiSilicon)
-- 🛡️ Security Framework Development & Exploit PoCs
-- 🎮 Game Development with Godot/GDScript
-- 📱 Embedded Systems (ESP32, ARM-based devices)
-- 💻 Full-stack Development (Backend, Web, Mobile)
-
-**🚀 Current Focus:**
-- Building sophisticated security tooling
-- IoT device firmware development
-- Interactive game experiences
-- Low-level systems optimization
-
-**✨ Philosophy:** *Perfect execution in everything*
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+- Vulnerability Research
+- Binary Exploitation
+- Reverse Engineering
+- Embedded & IoT Security
+- Network Protocol Analysis
+- Security Tooling
+- Low-Level Systems
 
 ---
 
-## 🎯 **FEATURED PROJECTS**
+## Selected Work
 
-### 🔴 **SECURITY & RESEARCH**
+### `crashbandicoot`
+**Pre-authentication security research on Hikvision DVR/NVR**
 
-```
-┌─ 🔐 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► CES FRAMEWORK                                 │
-│    Advanced AI-Powered Penetration Testing       │
-│    🏷️  Python • 🌟 Core Security Tool            │
-│    ⭐ 12+ commits • Active development            │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       CES_framework                              │
-│                                                   │
-└─────────────────────────────────────────────────┘
+Independent black-box research targeting a legacy Hikvision DVR/NVR platform based on HiSilicon Hi3531 / ARMv7-A.
 
-┌─ 🔴 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► CRASHBANDICOOT                                │
-│    Pre-auth 0-day Research on Hikvision         │
-│    🏷️  Python • CVE Research • ARM Analysis      │
-│    📍 HiSilicon Hi3531 ARMv7-A Firmware          │
-│    🚀 Active vulnerability research              │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       crashbandicoot                             │
-│                                                   │
-└─────────────────────────────────────────────────┘
+Research includes:
 
-┌─ 🔵 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► PENTEST PORTFOLIO                             │
-│    Advanced Exploitation Toolkit                 │
-│    🏷️  C (53.8%) • C++ (34.3%) • Python (11.7%)  │
-│    ⚙️  Low-level systems & vulnerability assess  │
-│    📦 Multi-language exploitation suite          │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       pentest-portfolio                          │
-│                                                   │
-└─────────────────────────────────────────────────┘
+- RTSP and HTTP attack-surface analysis
+- Pre-authentication memory corruption
+- Stack and heap corruption
+- Crash analysis and reproducibility
+- ARMv7 control-flow investigation
+- Firmware analysis
+- Custom Python research tooling
+- Exploration of potential control-flow primitives
 
-┌─ 🟢 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► SECURITY SCANNER                              │
-│    Automated Vulnerability Detection             │
-│    🏷️  Python • Automation • Real-time Analysis  │
-│    🔍 Scanning & threat detection toolkit        │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       security-scanner                           │
-│                                                   │
-└─────────────────────────────────────────────────┘
+The research distinguishes confirmed denial-of-service findings from exploratory attempts at obtaining code execution.
 
-┌─ ⚫ ─────────────────────────────────────────────┐
-│                                                   │
-│  ► CVE-2025-30216 PROOF OF CONCEPT               │
-│    Critical Vulnerability Demonstration          │
-│    🏷️  Python • CVE Analysis • Research          │
-│    ⚠️  Security research & disclosure            │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       CVE-2025-30216-PoC                         │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
-
-### 🟣 **EMBEDDED SYSTEMS & IoT**
-
-```
-┌─ 📱 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► RABBITRACK R1 FIRMWARE                        │
-│    ESP32-S3 Device Management System             │
-│    🏷️  C (99.6%) • CMake (0.4%)                  │
-│    ⚙️  LVGL UI • minimp3 • TinyUSB MSC          │
-│    🎯 Production-ready firmware                  │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       rabbitrack-r1-firmware                     │
-│                                                   │
-└─────────────────────────────────────────────────┘
-
-┌─ 🍎 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► RABBITRACK R1 COMPANION                       │
-│    Flutter macOS Companion App                   │
-│    🏷️  Dart (44.1%) • C++ (27%) • Obj-C++ (9.9%) │
-│    📲 Cross-platform device management           │
-│    🚀 Native macOS integration & APIs            │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       rabbitrack-r1-companion                    │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
-
-### 🎮 **GAME DEVELOPMENT & CREATIVE**
-
-```
-┌─ 🕹️ ─────────────────────────────────────────────┐
-│                                                   │
-│  ► ARG-MONK                                      │
-│    Interactive Narrative Experience              │
-│    🏷️  GDScript (48.1%) • JS (34.2%) • CSS/HTML  │
-│    🎨 Godot Engine • Creative Storytelling       │
-│    🎯 PLAYABLE NOW: https://tuerleprince.itch.io│
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       ARG-monk                                   │
-│                                                   │
-└─────────────────────────────────────────────────┘
-
-┌─ ⚙️ ─────────────────────────────────────────────┐
-│                                                   │
-│  ► PRANK                                         │
-│    Cross-platform Utility                        │
-│    🏷️  C++ (75.4%) • Batch (15%) • PowerShell    │
-│    ⚡ Advanced system interaction                 │
-│    🖥️  Windows-focused development                │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       prank                                      │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
-
-### 💻 **WEB & APPLICATIONS**
-
-```
-┌─ 🌐 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► MY BLOG                                       │
-│    Retro-Terminal Personal Blog                  │
-│    🏷️  TypeScript (36.8%) • Dart (44.7%)         │
-│    🚀 Next.js 16 • Supabase • Vercel Deployed   │
-│    💾 Modern full-stack blogging platform        │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       myblog                                     │
-│                                                   │
-└─────────────────────────────────────────────────┘
-
-┌─ ✨ ─────────────────────────────────────────────┐
-│                                                   │
-│  ► COSMO                                         │
-│    Cosmic Report Generator                       │
-│    🏷️  Multi-technology stack                    │
-│    🌌 Birthday-based cosmic analysis             │
-│    🎁 Personalized experiences                   │
-│    🔗 https://github.com/oliviaisntcringe/      │
-│       Cosmo                                      │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
-
-### 🛠️ **UTILITIES & TOOLS**
-
-```
-┌─ 🔧 ─────────────────────────────────────────────┐
-│                                                   │
-│  ► FTP CRAWLER                    [PYTHON]       │
-│    Advanced FTP enumeration and scanning         │
-│    🎯 Network reconnaissance tool                │
-│                                                   │
-│  ► CVE-2025-30216 PoC             [PYTHON]       │
-│    Critical vulnerability proof of concept       │
-│    🔴 Security research demonstration            │
-│                                                   │
-│  ► INVENTORY UNLOCKER             [MULTI-TECH]   │
-│    Game inventory manipulation utility           │
-│    🎮 Game modding focused                       │
-│                                                   │
-│  ► GEKKA                          [GO]           │
-│    Modern systems tool in Go                     │
-│    ⚡ Performance-optimized                      │
-│                                                   │
-│  ► WEB SCANNER                    [HTML]         │
-│    Web vulnerability assessment UI               │
-│    🌐 Interactive web scanning interface         │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
+**Research publication:**  
+[DOI: 10.5281/zenodo.22768612](https://doi.org/10.5281/zenodo.22768612)
 
 ---
 
-## 🛠️ **TECHNICAL ARSENAL**
+### `tuerlegram`
+**Custom Telegram Desktop research fork**
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+A personal Telegram Desktop fork with an amber CRT / terminal aesthetic and an embedded JavaScript scripting environment.
 
-### 💎 **PRIMARY LANGUAGES**
-```
-[████████░░] PYTHON        • Scripting & Security Tools
-[████████░░] C/C++         • Systems & Embedded Dev
-[███████░░░] JAVASCRIPT    • Web & Game Frontend
-[██████░░░░] TYPESCRIPT    • Type-safe Development
-[██████░░░░] GO            • Systems Tools
-[█████░░░░░] BASH/SHELL    • Automation & DevOps
-[█████░░░░░] JAVA          • Backend Systems
-[████░░░░░░] C#            • Game Development
-[████░░░░░░] DART          • Mobile Development
-[████░░░░░░] GDSCRIPT      • Game Dev (Godot)
-```
+Features include:
 
-### 🔐 **SECURITY & SYSTEMS**
-```
-🔴 Kali Linux         ⚫ Linux (Advanced)      🟣 Raspberry Pi
-🔵 Windows            🟡 Arduino              ⚡ Nginx
-```
-
-### 💻 **DEVELOPMENT TOOLS**
-```
-🖥️  VS Code           📦 Git                 🐳 Docker
-🎨 Blender            🎮 Unity/Godot         🔀 Sublime
-📱 Flutter            🎯 CMake               ⚙️  Visual Studio
-```
-
-### 🎯 **SPECIALIZATIONS**
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🔫 PENETRATION TESTING & EXPLOITATION         ┃
-┃ → Framework development • Vulnerability PoCs  ┃
-┃ → 833+ commits across security projects      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🔍 REVERSING & BINARY ANALYSIS                ┃
-┃ → ARM Assembly • Firmware Analysis             ┃
-┃ → HiSilicon & embedded device research         ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 📱 EMBEDDED SYSTEMS & IoT                      ┃
-┃ → ESP32 • ARM-based devices • Real-time OS    ┃
-┃ → Production firmware deployment               ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🎮 GAME DEVELOPMENT                           ┃
-┃ → GDScript • Godot Engine • Game Mechanics    ┃
-┃ → Published games on itch.io                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🔨 SYSTEMS PROGRAMMING                        ┃
-┃ → Low-level C/C++ • Performance Optimization  ┃
-┃ → Custom tools & framework development        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🌐 FULL-STACK WEB DEVELOPMENT                ┃
-┃ → Next.js • TypeScript • Modern Architectures ┃
-┃ → Backend systems • Frontend UI/UX            ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 📲 MOBILE DEVELOPMENT                         ┃
-┃ → Flutter • Cross-platform • Native APIs      ┃
-┃ → iOS/macOS/Android deployment                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+- QuickJS-ng scripting runtime
+- Event-driven scripts
+- Per-chat script attachment
+- Persistent script state
+- HTML side panels
+- Custom `tg.*` host API
+- Message/history automation
+- Privacy and power-user features
+- Custom desktop client modifications
 
 ---
 
-## 📊 **GITHUB STATISTICS**
+### `rabbitrack-r1-simulator`
+**SDL2 simulator for embedded music-player firmware**
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+A desktop simulator designed to reproduce the Rabbitrack R1 firmware UI without requiring the physical device.
 
-### 📈 **REPOSITORY BREAKDOWN**
+Built around:
 
-```
-┌─ 📦 REPOSITORIES ──────────────────────────────┐
-│                                                 │
-│  Total Repositories:        18+                │
-│  Active Projects:           12                 │
-│  Total Commits:             833+               │
-│  Primary Languages:         9                  │
-│                                                 │
-│  ▓▓▓▓▓▓▓▓░░ Security (45%)                    │
-│  ▓▓▓▓░░░░░░ Game Dev (25%)                    │
-│  ▓▓░░░░░░░░ Embedded (15%)                    │
-│  ▓░░░░░░░░░ Web Apps (10%)                    │
-│  ▓░░░░░░░░░ Utilities (5%)                    │
-│                                                 │
-└─────────────────────────────────────────────┘
+- C
+- SDL2
+- LVGL
+- CMake
+- miniaudio
+- stb_image
 
-┌─ 🗣️ LANGUAGE COMPOSITION ──────────────────────┐
-│                                                 │
-│  Python          ███████████░░░ 35%            │
-│  C               ██████░░░░░░░░ 18%            │
-│  C++             ██████░░░░░░░░ 17%            │
-│  JavaScript      ████░░░░░░░░░░ 12%            │
-│  Go              ███░░░░░░░░░░░  8%            │
-│  TypeScript      ███░░░░░░░░░░░  8%            │
-│  Other           ██░░░░░░░░░░░░  2%            │
-│                                                 │
-└─────────────────────────────────────────────┘
+The simulator reproduces the 480×320 interface, audio playback, album artwork, waveform visualization, mascot animations and hardware-control input.
 
-┌─ 🎯 COMMIT ACTIVITY ───────────────────────────┐
-│                                                 │
-│  Most Active Repos:                            │
-│  ✓ CES_framework       (15+ commits)           │
-│  ✓ invunlocker         (5+ commits)            │
-│  ✓ web-scanner         (3+ commits)            │
-│  ✓ ARG-monk            (4+ commits)            │
-│  ✓ crashbandicoot      (active research)       │
-│                                                 │
-│  Contribution Streak:   🔥 ACTIVE               │
-│                                                 │
-└─────────────────────────────────────────────┘
-```
+It also integrates with Rabbitrack Manager through a local simulator-detection mechanism.
 
 ---
 
-## 🚀 **CURRENT PROJECTS**
+### `xiro-benz`
+**CS2 tooling / experimentation**
 
-| 🔴 Status | 📋 Project | 🎯 Focus | 📍 Progress |
-|:---:|:---|:---|:---|
-| 🔴 **ACTIVE** | CES Framework | Exploit Development | 🔥🔥🔥 |
-| 🔴 **ACTIVE** | Crashbandicoot Research | 0-day Analysis | 🔥🔥 |
-| 🟡 **IN PROGRESS** | Embedded IoT Solutions | ESP32 Optimization | 🔥🔥 |
-| 🟢 **SHIPPED** | Rabbitrack R1 System | Production Ready | ✅ |
-| 🟢 **SHIPPED** | ARG-monk Game | Published itch.io | ✅ |
-| 🔵 **UPCOMING** | New Game Dev | Narrative Design | 📝 |
+A separate repository containing the `velocity-cs2` project together with tests, documentation and an ImGui-based preview environment.
 
 ---
 
-## 💬 **QUICK STATS**
+## What I Work With
 
+```text
+Security
+├── Vulnerability Research
+├── Binary Exploitation
+├── Reverse Engineering
+├── Network Security
+├── Embedded / IoT Security
+└── Pentesting
+
+Systems
+├── C / C++
+├── Python
+├── Rust
+├── ARM
+├── Linux
+├── Qt
+└── SDL2
+
+Research
+├── Protocol Analysis
+├── Fuzzing
+├── Crash Analysis
+├── Firmware Analysis
+└── Exploit Development
 ```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  ✦ 833+ GitHub Commits                           ║
-║  ✦ 18+ Active Repositories                       ║
-║  ✦ 9 Programming Languages Mastered              ║
-║  ✦ Firmware Analysis & Reversing Expert          ║
-║  ✦ Published Games on itch.io                    ║
-║  ✦ Full-stack Development Capabilities           ║
-║  ✦ Security Framework Development                ║
-║  ✦ IoT & Embedded Systems Specialist             ║
-║  ✦ Always Learning, Always Optimizing            ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
+
+## Research
+
+I am particularly interested in the intersection of **security research and low-level systems**:
+
+> protocols → memory corruption → crash analysis → reverse engineering → exploitation
+
+Less dashboards. More reversing, weird protocols, memory corruption, embedded devices and figuring out why something breaks.
+
+My current research work includes the analysis of pre-authentication attack surfaces in embedded network devices and documenting findings as reproducible technical research.
+
+## Publication
+
+**Pre-authentication Security Research on Hikvision DVR/NVR**
+
+DOI: [10.5281/zenodo.22768612](https://doi.org/10.5281/zenodo.22768612)
 
 ---
 
-## 🔗 **CONNECT & COLLABORATE**
+## Projects
 
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  📧 EMAIL                                         ║
-║     glebbichivin@yandex.ru                        ║
-║                                                    ║
-║  🎮 GAMES & PROJECTS                              ║
-║     https://tuerleprince.itch.io/                 ║
-║                                                    ║
-║  💻 GITHUB PROFILE                                ║
-║     https://github.com/oliviaisntcringe          ║
-║                                                    ║
-║  💬 LET'S BUILD SOMETHING AMAZING                 ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-### 🎯 **STATUS: ACTIVE & READY TO COLLABORATE**
-
-```
-███████████████████████████████████
-█                                 █
-█  Thank you for visiting!        █
-█  Explore • Learn • Create       █
-█                                 █
-███████████████████████████████████
-```
-
-**Last Updated:** July 2026 | **Mode:** 🟢 FULL PRODUCTIVITY
-
-</div>
+- [crashbandicoot](https://github.com/oliviaisntcringe/crashbandicoot)
+- [tuerlegram / Telegram Desktop fork](https://github.com/oliviaisntcringe/tdesktop/tree/amber-crt-client)
+- [Rabbitrack R1 Simulator](https://github.com/oliviaisntcringe/rabbitrack-r1-simulator)
+- [xiro-benz](https://github.com/oliviaisntcringe/xiro-benz)
